@@ -1,5 +1,4 @@
-# ExpenseTracker
-“A simple web app to manage daily expenses using HTML, CSS, and JavaScript.”
+
 # 💰 Expense Tracker
 
 A simple and responsive web app to track your daily expenses, built using **HTML, CSS, and JavaScript**.
